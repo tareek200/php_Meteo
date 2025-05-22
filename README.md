@@ -1,6 +1,6 @@
 # 🌤️ Météo des Villes Marocaines et Européennes
 
-Ce projet PHP permet d'afficher en temps réel les conditions météorologiques de plus de 50 villes du monde (principalement marocaines, européennes et autres capitales internationales), en utilisant l'API [OpenWeatherMap](https://openweathermap.org/).
+Ce projet PHP permet d'afficher en temps réel les conditions météorologiques de plus de 50 villes du monde (principalement marocaines, européennes et autres capitales internationales), en utilisant l'API [OpenWeatherMap]
 
 ## 🔧 Fonctionnalités
 
@@ -10,9 +10,7 @@ Ce projet PHP permet d'afficher en temps réel les conditions météorologiques 
 - Interface élégante en **Bootstrap 5**
 - Gestion des erreurs API
 
-## 📸 Aperçu
 
-![Screenshot UI](screenshot.png) <!-- Ajoutez une capture d'écran ici -->
 
 ## 🚀 Technologies utilisées
 
